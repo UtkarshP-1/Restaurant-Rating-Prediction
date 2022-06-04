@@ -1,0 +1,9 @@
+heroku buildpacks:add https://github.com/radian-software/heroku-buildpack-git-lfs -a <heroku-app-name>
+
+heroku config:set BUILDPACK_GIT_LFS_REPO=<project-git-repo-urls> --app <heroku-app-name>
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+heroku buildpacks:add https://github.com/radian-software/heroku-buildpack-git-lfs -a restaurant-rating--prediction
+
+heroku config:set BUILDPACK_GIT_LFS_REPO=https://github.com/UtkarshP-1/Restaurant-Rating-Prediction --app restaurant-rating--prediction
