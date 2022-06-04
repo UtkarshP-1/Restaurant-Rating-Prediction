@@ -6,8 +6,6 @@ import bz2
 
 app = Flask(__name__)
 model = pickle.load(open('model.pkl', 'rb'))
-# Dfile=bz2.BZ2File('model','rb')
-# model=cPickle.load(Dfile)
 
 @app.route('/')
 def home():
