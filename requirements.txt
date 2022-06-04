@@ -9,3 +9,4 @@ watchdog==2.1.7
 Werkzeug==2.0.2
 gunicorn
 bz2file
+scikit-learn==1.0.1
