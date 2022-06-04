@@ -16,3 +16,4 @@ watchdog==2.1.7
 Werkzeug==2.0.2
 xgboost==1.5.0
 gunicorn
+bz2file
