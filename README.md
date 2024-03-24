@@ -6,7 +6,9 @@ This is a C-DAC project work submitted for completion of Post Graduation Diploma
 
 The model was succefully deployed on AWS as well as Heroku.
 
-Link : https://restaurant-rating--prediction.herokuapp.com/
+Link : ~https://restaurant-rating--prediction.herokuapp.com/~
+
+UPDATE : app deleted as Heroku ended free-tier services
 
 ---
 The most commonly used parameter for judging a restaurant is the rating. In spite of increasing demand, it becomes difficult for new restaurants to compete with the well-established restaurants. Various factors come into the picture in determining the success of a restaurant and affect its ratings.
